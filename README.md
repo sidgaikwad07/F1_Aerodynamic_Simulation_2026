@@ -268,7 +268,7 @@ This repository includes a set of supporting visual analyses to validate and exp
 
 ### 1️⃣ L/D Ratio Feature Importance
 
-![L/D Feature Importance](https://drive.google.com/uc?export=view&id=1UzRTae9ahuT02FMAZ2lOswpC9FuM0BLD)
+![L/D Feature Importance]([https://drive.google.com/uc?export=view&id=1UzRTae9ahuT02FMAZ2lOswpC9FuM0BLD](https://drive.google.com/file/d/1UzRTae9ahuT02FMAZ2lOswpC9FuM0BLD/view?usp=share_link))
 
 **What this shows:**
 
@@ -281,7 +281,7 @@ Performance leadership shifts from **floor geometry to controllable aero surface
 
 ### 2️⃣ Ground Effect vs Ride Height Sensitivity
 
-![Ground Effect Ride Height Impact](https://drive.google.com/uc?export=view&id=1aXhyyF-QxqAnDzTw9t0d1uK2v-XQe5tq)
+![Ground Effect Ride Height Impact]([https://drive.google.com/uc?export=view&id=1aXhyyF-QxqAnDzTw9t0d1uK2v-XQe5tq](https://drive.google.com/file/d/1aXhyyF-QxqAnDzTw9t0d1uK2v-XQe5tq/view?usp=share_link))
 
 **What this shows:**
 
@@ -295,7 +295,7 @@ The 2026 floor rules **break ground-effect tyranny**. Cars are far less ride-hei
 
 ### 3️⃣ 2026 Aerodynamic System-Level Analysis
 
-![2026 Aerodynamic Analysis](https://drive.google.com/uc?export=view&id=1PzINCnXisDAUkZt_SrwBLETzF3NvJLre)
+![2026 Aerodynamic Analysis]([https://drive.google.com/uc?export=view&id=1PzINCnXisDAUkZt_SrwBLETzF3NvJLre](https://drive.google.com/file/d/1PzINCnXisDAUkZt_SrwBLETzF3NvJLre/view?usp=share_link))
 
 **What this shows:**
 
