@@ -267,6 +267,7 @@ This repository includes a set of supporting visual analyses to validate and exp
 ---
 
 ### 1️⃣ L/D Ratio Feature Importance
+
 ![L/D Feature Importance](https://drive.google.com/uc?export=view&id=1UzRTae9ahuT02FMAZ2lOswpC9FuM0BLD)
 
 **What this shows:**
@@ -279,6 +280,7 @@ This repository includes a set of supporting visual analyses to validate and exp
 Performance leadership shifts from **floor geometry to controllable aero surfaces**. This confirms the FIA’s intention to make racing outcomes less dependent on invisible underfloor tricks.
 
 ### 2️⃣ Ground Effect vs Ride Height Sensitivity
+
 ![Ground Effect Ride Height Impact](https://drive.google.com/uc?export=view&id=1aXhyyF-QxqAnDzTw9t0d1uK2v-XQe5tq)
 
 **What this shows:**
